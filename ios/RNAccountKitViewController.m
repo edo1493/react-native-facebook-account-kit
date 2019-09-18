@@ -51,7 +51,7 @@
         viewController.enableGetACall = self.getACallEnabled;
     }
 
-    viewController.enableInitialSMSButton = self.setEnableInitialSmsButton;
+    //viewController.enableInitialSMSButton = self.setEnableInitialSmsButton;
 
     viewController.defaultCountryCode = self.defaultCountry;
 
